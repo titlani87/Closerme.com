@@ -6173,7 +6173,7 @@ a.badge:focus {
   position: fixed;
 }
 .closer{
-  border: #ff6600 solid 10px;
+  border: rgb(115,197,39) solid 15px;
 }
 .comprar{
   position: absolute;
