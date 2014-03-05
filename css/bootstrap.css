@@ -231,7 +231,7 @@ body {
 }
 
 a {
-  color: #0088cc;
+  color: #FFFFFF;
   text-decoration: none;
 }
 
@@ -6173,7 +6173,7 @@ a.badge:focus {
   position: fixed;
 }
 .closer{
-  border: rgb(115,197,39) solid 15px;
+  border: rgb(115,197,39) solid 10px;
 }
 .comprar{
   position: absolute;
